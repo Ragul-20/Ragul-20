@@ -12,10 +12,9 @@
  
 ## 🙋‍♂️ About Me
  
-- 🎓 I'm studying **Artificial Intelligence & Data Science**
-- 🌱 Currently learning **Machine Learning** and "python libraries"
-- 💡 I love turning data into meaningful insights
-- 🚀 Building projects that combine **AI + Web**
+🌱 Exploring Machine Learning and advanced Python libraries  
+💡 Passionate about transforming data into meaningful insights  
+🚀 Building intelligent applications that integrate AI with modern web technologies  
 ---
  
 ## 🛠️ Skills & Technologies
@@ -48,16 +47,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Ragul-20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ragul-20&layout=compact&theme=tokyonight&hide_border=true" height="165" /> 
 </div>
----
- 
-## 🚀 My Projects
- 
-| 🗂️ Project | 📝 Description | 🔧 Tech Used |
-|-----------|---------------|-------------|
-| [Simple Calculator](https://github.com/Ragul-20/simple-calculator) | A functional calculator app | HTML, CSS, JavaScript |
-| [Text to Speech](https://github.com/Ragul-20/Text-to-speech-convertor) | Converts text into audio | HTML, CSS, JavaScript |
-| [Hostel Fix](https://github.com/Ragul-20/Hostel_Fix) | Hostel management web app | HTML ,CSS , JS , FLASK , SQL|
- 
 ---
  
 ## 🤝 Connect with Me
