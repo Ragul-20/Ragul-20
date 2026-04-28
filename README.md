@@ -1,20 +1,21 @@
 <div align="center">
-# Hi there, I'm Ragul! 👋
- 
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=700&size=26&pause=1200&color=6C63FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Ragul+%F0%9F%91%8B;AI+%26+Data+Science+Student;Python+Developer;Data+Analyst;Machine+Learning+Explorer;Always+Learning!)
 ### 🤖 Artificial Intelligence & Data Science Student
- 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=AI+%26+Data+Science+Student;Python+Developer;Frontend+Enthusiast;Always+Learning+New+Things!)
- 
+
+![](https://img.shields.io/badge/AI%20%26%20Data%20Science-7F77DD?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Python%20Developer-5DCAA5?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Data%20Analyst-EF9F27?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Web%20Developer-378ADD?style=flat-square&logoColor=white)
+
 </div>
----
  
 ## 🙋‍♂️ About Me
  
 - 🎓 I'm studying **Artificial Intelligence & Data Science**
-- 🌱 Currently learning **Machine Learning** and **Deep Learning**
+- 🌱 Currently learning **Machine Learning** and "python libraries"
 - 💡 I love turning data into meaningful insights
 - 🚀 Building projects that combine **AI + Web**
-- 🇮🇳 Based in **India**
 ---
  
 ## 🛠️ Skills & Technologies
@@ -45,10 +46,7 @@
  
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Ragul-20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ragul-20&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-<br/>
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ragul-20&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
- 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ragul-20&layout=compact&theme=tokyonight&hide_border=true" height="165" /> 
 </div>
 ---
  
@@ -58,19 +56,23 @@
 |-----------|---------------|-------------|
 | [Simple Calculator](https://github.com/Ragul-20/simple-calculator) | A functional calculator app | HTML, CSS, JavaScript |
 | [Text to Speech](https://github.com/Ragul-20/Text-to-speech-convertor) | Converts text into audio | HTML, CSS, JavaScript |
-| [Hostel Fix](https://github.com/Ragul-20/Hostel_Fix) | Hostel management web app | HTML |
+| [Hostel Fix](https://github.com/Ragul-20/Hostel_Fix) | Hostel management web app | HTML ,CSS , JS , FLASK , SQL|
  
 ---
  
 ## 🤝 Connect with Me
  
 <div align="center">
-[![GitHub](https://img.shields.io/badge/GitHub-Ragul--20-181717?style=for-the-badge&logo=github)](https://github.com/Ragul-20)
- 
+      <a href="https://www.linkedin.com/in/ragul-s-776816381/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:raguls124578@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
----
  
 <div align="center">
+ <br>
 ⭐ **"Every expert was once a beginner. Keep learning, keep building!"** ⭐
  
 *Thanks for visiting my profile! Feel free to explore my repositories.* 😊
