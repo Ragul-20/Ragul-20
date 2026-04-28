@@ -11,10 +11,11 @@
 </div>
  
 ## 🙋‍♂️ About Me
- 
-🌱 Exploring Machine Learning and advanced Python libraries  
-💡 Passionate about transforming data into meaningful insights  
-🚀 Building intelligent applications that integrate AI with modern web technologies  
+<p align="left">
+🌱 Exploring Machine Learning and advanced Python libraries<br>
+💡 Passionate about transforming data into meaningful insights<br>
+🚀 Building intelligent applications that integrate AI with modern web technologies
+</p>
 ---
  
 ## 🛠️ Skills & Technologies
